@@ -67,7 +67,7 @@ def calculate_coins(pennies, nickels, dimes, quarters):
     return round(adding, 2)
 
 
-"""SHOW ME THE MONEY"""
+"""SHOW ME THE RESOURCES"""
 
 
 def give_me_money(drink_name, your_money):
@@ -129,12 +129,3 @@ def coffee_machine():
 
 
 coffee_machine()
-
-
-# TODO: 1. Type of coffee do you want? ✔
-# TODO: 2. check all coffee's ingredients it has for that choices of coffee.✔
-# TODO: 3. No ingredients, say bye.
-# TODO: 4. All ingredients: How many coins do you have? ask every coin.✔
-# TODO: 5. Adding all coins, calculate if it is correct, need change or not, and if it isn't enough money, say bye.✔ X
-# TODO: 6. Make the coffee, rest the ingredients, calculate the change if it need it and give the coffee and change.✔
-# TODO: 7. Secret key for report status.✔
